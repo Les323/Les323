@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Les323
+- 👋 Hi, I’m Lesego
 - 👀 I’m interested in Data Analysis. My interest began in High School during a stats module in math class and I knew that one day I would be in the stats field and I went on to study IT and that is how I fell in love with Data Analysis.
 - This Profile is to help me store all the data projects I have been working on to help me land my first Data Analytics Job.
 
